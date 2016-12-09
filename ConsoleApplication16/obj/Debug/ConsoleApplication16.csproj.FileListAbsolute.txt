@@ -1,0 +1,5 @@
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
